@@ -4,6 +4,7 @@ body {
 }
 
 ol, ul {
+  list-style-type: none;
   padding-left: 30px;
 }
 
@@ -19,17 +20,17 @@ ol, ul {
 
 .square {
   background: #fff;
-  border: 1px solid #999;
+  border: 1px solid #000000;
   float: left;
-  font-size: 24px;
+  font-size: 85px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 140px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 140px;
 }
 
 .square:focus {
@@ -47,4 +48,25 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+  font-size: 15px;
+}
+
+.game-title {
+  background-image: linear-gradient(90deg, #1815d1 0%, #00C0FF 40%, #f79b11 95%);
+  font-size: 25px;
+  opacity: 85%;
+}
+
+.move-button {
+  width:calc(12vw + 6px);
+  height:calc(3vw + 6px);
+  border-radius:5px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight:bold;
+  padding: 10;
+  background-color: #f79b11;
+  opacity: 85%;
+  margin-bottom: 5px;
 }
