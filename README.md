@@ -1,8 +1,6 @@
 # Tic-Tac-Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Based on the following tutorial: [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is based on the following tutorial: [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial).
 
 A tic-tac-toe game that:
 
