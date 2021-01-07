@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Based on the following tutorial: [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial).
-]
 
 A tic-tac-toe game that:
 
@@ -11,7 +11,7 @@ A tic-tac-toe game that:
 * Stores a game’s history as a game progresses,
 * Allows players to review a game’s history and see previous versions of a game’s board.
 
-[![game play](./tic-tac-toe.png)
+![game play](./tic-tac-toe.png)
 
 
 ## Available Scripts
